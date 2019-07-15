@@ -26,6 +26,7 @@
             </li>
             <li><a href="paket.php?page=tutorial">Paket Liburan</a></li>
             <li><a href="Kontak.php?page=tutorial">Kontak</a></li>
+            <li><a href="galeri.php?page=tutorial">Gallery</a></li>
         </ul>
     </div>
 
@@ -35,7 +36,7 @@
 
    img {
      width: 937px;
-     height: 500px;
+     height: 350px;
      border: 1px solid #575D63;
      padding: 1px;
    }

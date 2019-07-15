@@ -26,6 +26,7 @@
 			</li>
 			<li><a href="paket.php?page=tutorial">Paket Liburan</a></li>
 			<li><a href="Kontak.php?page=tutorial">Kontak</a></li>
+			<li><a href="galeri.php?page=tutorial">Gallery</a></li>
 		</ul>
 	</div>
  
@@ -55,7 +56,7 @@
             text-align: justify;}
 </style>
 <br>
-<p><h3><center>Gallery</center></h3>
+
 <img class="gambar1" src="1.jpg"><img class="gambar2" src="2.jpg">
  <img class="gambar3" src="3.jpg"><img class="gambar4" src="4.jpg">
  <img class="gambar5" src="5.jpg"><img class="gambar6" src="6.jpg">
