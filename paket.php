@@ -27,6 +27,7 @@
 			</li>
 			<li><a href="paket.php?page=tutorial">Paket Liburan</a></li>
 			<li><a href="Kontak.php?page=tutorial">Kontak</a></li>
+			<li><a href="galeri.php?page=tutorial">Gallery</a></li>
 		</ul>
 	</div>
 
