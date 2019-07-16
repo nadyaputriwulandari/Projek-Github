@@ -62,7 +62,7 @@
  <img class="gambar5" src="5.jpg"><img class="gambar6" src="6.jpg">
  <img class="gambar7" src="7.jpg"><img class="gambar8" src="8.jpg">
 
-	<?php 
+	<!-- <?php 
 	if(isset($_GET['page'])){
 		$page = $_GET['page'];
  
@@ -84,7 +84,7 @@
 		include "halaman/home.php";
 	}
  
-	 ?>
+	 ?> -->
  
 	</div>
 </div>
